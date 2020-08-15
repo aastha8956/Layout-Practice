@@ -1,0 +1,42 @@
+body{
+	margin:0;
+	padding:0;
+}
+	/*================================
+		HEADER STYLE START HERE
+	=================================*/
+
+header{
+
+}
+.main-menu, .breadcrumbs, .body-content,.sec-menu{
+	background-color: #464546;
+	padding:50px 0;
+	margin:15px 0;
+}
+h2{
+	margin:0;
+	color:#fff;
+	text-align:center;
+}
+.breadcrumbs{
+	padding: 20px;
+}
+.body-wrapper{
+	overflow:hidden;
+
+
+}
+.sec-menu{
+	width:30%;
+	float:left;
+	min-height:400px;
+
+}
+.body-content{
+	width:68%;
+	float:right;
+	min-height:400px;
+
+
+}
